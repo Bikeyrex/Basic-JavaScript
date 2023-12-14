@@ -1,0 +1,6 @@
+Question:
+1) Assign the value 7 to variable a.
+
+Answer
+var a;
+a = 7;

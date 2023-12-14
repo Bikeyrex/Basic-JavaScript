@@ -1,0 +1,8 @@
+Question:
+1) Assign the contents of a to variable b.
+
+Answer:
+var a;
+a =7;
+var b;
+b = a;
