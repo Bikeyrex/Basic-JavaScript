@@ -1,0 +1,10 @@
+Question:
+Update the code so it only uses the let keyword.
+
+var catName = "Oliver";
+var catSound = "Meow!";
+
+Answer:
+
+let catName = "Oliver";
+let catsound = "Meow!";
