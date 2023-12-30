@@ -1,0 +1,5 @@
+Question:
+Create a nested array called myArray.
+
+Answer:
+const myArray = [["Real Madrid", 99], ["Chelsea", 10]];
