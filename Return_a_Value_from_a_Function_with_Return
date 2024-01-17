@@ -1,0 +1,10 @@
+Question:
+Create a function timesFive that accepts one argument, multiplies it by 5, and returns the new value
+
+Answer:
+function timesFive(num) {
+  return num * 5;
+}
+
+const answer = timesFive(6);
+console.log(answer);
